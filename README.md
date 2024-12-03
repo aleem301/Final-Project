@@ -28,7 +28,7 @@ Installation Instructions:
 4. Run the game using the command:
    ```bash
    python main.py
-   Game Flow: The game consists of five chapters, each presenting a unique challenge or decision point. Below is a summary of the chapters:
+     Game Flow: The game consists of five chapters, each presenting a unique challenge or decision point. Below is a summary of the chapters:
 
 Introduction (Chapter 1):
 
